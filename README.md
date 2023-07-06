@@ -1,9 +1,9 @@
-# Step tracker
+# Yandex-Step-Tracker
 
-### Project description
-Step tracker is a program for recording steps, distance and calories burned.
-### Tech stack
-The project is built solely on Java 11.
-### System requirements
+## Стек
 
-- JVM installed
+Java Core
+
+## Для чего предназначен данный проект.
+
+**Yandex-Step-Tracker** это простая программа для учета пройденных шагов и калорий.
